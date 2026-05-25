@@ -1,2 +1,2 @@
-# Data-Science-Projects
-"My collection of Data Science and Machine Learning projects”
+# Supplier Risk Intelligence System
+End-to-end procurement analytics project — Python, SQL, Power BI, Scikit-learn
